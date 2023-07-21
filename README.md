@@ -25,15 +25,7 @@
   <a href="https://github.com/nicholaschun?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaschun&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-  <a href="https://github.com/nicholaschun/reGQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicholaschun&repo=reGQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-
-
-  <a href="https://github.com/nicholaschun/svelteuse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicholaschun&repo=svelte-use&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
-  </a>    
+   
 
 ## 🤔 Currently?
 
