@@ -14,23 +14,4 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
-
-
-
-## &#x1f4c8; GitHub Stats
-  <a href="https://github.com/nicholaschun/nicholaschun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholaschun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="nicholaschun's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/nicholaschun?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaschun&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-   
-
-## 🤔 Currently?
-
-- 🔭 I’m currently working on scalable automation
-- 🌱 I’m currently learning, Golang & Rust
-- 👯 I’m looking to collaborate on any good OpenSource projects
-- 🤔 I’m looking for help with Svelte-Use
-- 📫 How to reach me: 
+ 
