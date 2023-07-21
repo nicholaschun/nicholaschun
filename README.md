@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 
 ## 🔧 Technologies & Tools
@@ -20,9 +18,6 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
-
-
   <a href="https://github.com/nicholaschun/nicholaschun">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholaschun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="nicholaschun's GitHub Stats" />
   </a>
@@ -40,9 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicholaschun&repo=svelte-use&title_color=ffffff&text_color=c9cacc&icon_color=ff3e00&bg_color=1d1f21" />
   </a>    
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+## 🤔 Currently?
 
-<a href="https://www.linkedin.com/in/nicholas-mamiya-a56351bb" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nicholaschunrayne@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+- 🔭 I’m currently working on scalable automation
+- 🌱 I’m currently learning, Golang & Rust
+- 👯 I’m looking to collaborate on any good OpenSource projects
+- 🤔 I’m looking for help with Svelte-Use
+- 📫 How to reach me: 
